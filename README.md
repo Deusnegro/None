@@ -16,7 +16,8 @@ A tool to build the foundation of an efficient tool written in Python
 - Linux 
 - Kali Linux
 
-[URL=https://uupload.ir/view/nnnnnnnnnnn_qjlm.png][IMG]https://s4.uupload.ir/files/nnnnnnnnnnn_qjlm_thumb.png[/IMG][/URL]
+<a href="https://uupload.ir/" target="_blank"><img src="https://s4.uupload.ir/files/nnnnnnnnnnn_7ko9.png" border="0" alt="آپلود عکس" /></a>
+
 ## Install
   
 ```bash
