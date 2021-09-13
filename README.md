@@ -6,7 +6,7 @@
  
 A tool to build the foundation of an efficient tool written in Python
 
-<a href="https://uupload.ir/view/none_dd0e.jpg" target="_blank"><img src="https://s4.uupload.ir/files/none_dd0e_thumb.jpg" border="0" alt="آپلود عکس" /></a>
+<a href="https://uupload.ir/view/none_dd0e.jpg" target="_blank"><img src="https://s4.uupload.ir/files/none_dd0e_thumb.jpg" border="0" " /></a>
 
 
 ## Operating Systems Tested
@@ -15,6 +15,8 @@ A tool to build the foundation of an efficient tool written in Python
 - Windows 8.1
 - Linux 
 - Kali Linux
+
+<a href="https://uupload.ir/view/noneed_v31r.png" target="_blank"><img src="https://s4.uupload.ir/files/noneed_v31r_thumb.png" border="0" " /></a>
 
 ## Install
   
