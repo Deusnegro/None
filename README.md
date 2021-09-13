@@ -19,8 +19,7 @@ A tool to build the foundation of an efficient tool written in Python
 ## Install
   
 ```bash
-git clone https://github.com/Deusnegro/Superman.git
-cd Superman
-pip3 install -r requirements.txt
-Run => Superman.py
+git clone
+cd None
+Run => None.py
 ```
