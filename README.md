@@ -16,8 +16,7 @@ A tool to build the foundation of an efficient tool written in Python
 - Linux 
 - Kali Linux
 
-<a href="https://uupload.ir/view/noneed_v31r.png" target="_blank"><img src="https://s4.uupload.ir/files/noneed_v31r_thumb.png" border="0" /></a>
-
+[URL=https://uupload.ir/view/nnnnnnnnnnn_qjlm.png][IMG]https://s4.uupload.ir/files/nnnnnnnnnnn_qjlm_thumb.png[/IMG][/URL]
 ## Install
   
 ```bash
